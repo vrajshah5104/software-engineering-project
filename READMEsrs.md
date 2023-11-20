@@ -3,7 +3,7 @@ Software Requirements Specification (SRS) Document
 for
 Kalinga Institute of Industrial Technology (KIIT) University
 
-Building a software product to enhance the emotional intelligence and performance of a chess player
+Building a Software Product to Enhance the Emotional Intelligence and Performance of a Chess Player
 
 Version 2.0 to be approved
 
